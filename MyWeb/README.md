@@ -1,1 +1,1 @@
-![](public/images/cowork.jpg)
+![](public/images/Screenshot_1.png)
