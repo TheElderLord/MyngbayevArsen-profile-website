@@ -17,7 +17,7 @@
     <a href="{{route('main')}}">Main</a>
     <a href="{{route('about')}}">About Us</a>
     <a href="{{route('contact')}}">Contacts</a></div>
-    <div class="name"><h1>Welcome to Webpage</h1></div></div>
+    <div class="name"><h1>Welcome to Main page</h1></div></div>
   
     <div class="mainBody">
        

@@ -1,0 +1,26 @@
+body{
+    background: #F7F7F7;
+    font-family: 'Akaya Telivigala', cursive;
+
+ }
+ a{
+     text-decoration: none;
+     color: black;
+    
+      }
+      a:hover{
+          color: rgb(233, 223, 223);
+      }
+ .links{
+     display: flex;
+     justify-content: space-around;
+     font-size: 32px;}
+.header{
+   background-color: #c29595 ;
+    
+    }
+    .name{
+        margin-top: 50px;
+        text-align: center;
+    }
+    
