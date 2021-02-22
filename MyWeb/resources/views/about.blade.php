@@ -17,7 +17,15 @@
     <a href="{{route('main')}}">Main</a>
     <a href="{{route('about')}}">About Us</a>
     <a href="{{route('contact')}}">Contacts</a></div>
-    <div class="name"><h1>About Us</h1></div></div>
+    <div class="name"><h1>About</h1></div></div>
     
+    <div class="Aboutbody">
+        <h3>My childhood</h3>
+        <p>I was born in 14 February 2002. I was studied 4 classes at school №197.After studied at 15 school-lyceum</p>
+        <h3>My school time</h3>
+        <p>My grades were excelent. I was interesting in science. A lot of things I was investigated like particles smaller than electron.</p>
+        <h3>University time</h3>
+        <p>In 2019 I graduated and endtered in SDU</p>
+    </div>
 </body>
 </html>

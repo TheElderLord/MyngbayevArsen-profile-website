@@ -26,8 +26,11 @@
 
         </div>
         <div class="maintext">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illo architecto totam eveniet distinctio soluta error ratione maiores molestiae magni. Qui ipsa nostrum at quibusdam voluptates maiores delectus nulla molestiae eveniet.
-          </div>
+           My name is Arsen. I am studying at SDU. The course of Information Systems. I have experiences with database, 
+    front-end libraries such as React JS, Angular,Vue js. I am learning MERN and Python for Data Science. I have my dream team that can make a lot of things. 
+    They are hardworkers and improves theirselves every time. We can make make you
+    beautiful landing page or full-stack web-page in several days . We will support our products for first customers. 
+    </div>
         
     </div>
 </body>
