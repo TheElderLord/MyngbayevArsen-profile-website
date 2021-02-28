@@ -39,3 +39,7 @@ Route::get('post/create',function(){
    ]);
 });
 
+Route::get('post',function(){
+$post = Post::find(11);
+return $post;
+});
